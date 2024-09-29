@@ -42,7 +42,7 @@ function Navbar(){
                 >
                     About Me
                 </a></li> 
-                <li><a href="#Projects" id='Project'
+                <li><a href="#Project" id='Projects'
                 className={navScroll === "Project" ? "active" : ""}
                 >
                     Projects
